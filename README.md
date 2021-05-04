@@ -7,6 +7,7 @@ If you want to turn an EXE file into an APP file, pull an request. Max file size
 
 ConvertWare/CWare
 
+As of right now it only works with Intel based laptops only. Still working on M1 Macs. Also, I haven't got an application to convert this yet because I am still working on it. Thanks for your patience.
 
 Change Log:
 May 4th 2021 - 1.0 - Initial version
