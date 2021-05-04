@@ -30,4 +30,5 @@ ConvertWare/CWare
 
 
 Change Log:
-1.0 - Initial version
+May 4th 2021 - 1.0 - Initial version
+May 4th 2021 - 1.0.1 = Fixed applications that only have half a screen loaded 
