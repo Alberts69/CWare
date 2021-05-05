@@ -23,6 +23,10 @@ May 4th 2021 - 1.0.1 - Fixed applications that only load halfway
 
 May 5th 2021 - 1.0.2 - Made some applications a whole lot smoother and less laggy
 
+May 5th 2021 - 1.1 - I did some tweaking and now it can request access for stuff like downloads folder, etc.
+
+
+
 
 
 
