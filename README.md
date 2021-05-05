@@ -7,7 +7,7 @@ If you want to turn an EXE file into an APP file, pull an request. Max file size
 
 ConvertWare/CWare 
 
-Buy me a coffee :) - https://paypal.me/bruhbot8553
+Buy me a coffee, keep me going :) - https://paypal.me/bruhbot8553
 
 As of right now it only works with Intel based laptops only. Still working on M1 Macs. Also, I do not have a public software for converting this yet. I am still working on it. Only works on MacOS High Sierra to Big sur (10.13 - 11.4B). I am still working on making it support MacOS 10.12 and lower. Thanks for your patience.
 
@@ -24,6 +24,8 @@ May 4th 2021 - 1.0.1 - Fixed applications that only load halfway
 May 5th 2021 - 1.0.2 - Made some applications a whole lot smoother and less laggy
 
 May 5th 2021 - 1.1 - I did some tweaking and now it can request access for stuff like downloads folder, etc.
+
+
 
 
 
