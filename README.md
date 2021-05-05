@@ -13,8 +13,7 @@ Change Log:
 May 4th 2021 - 1.0 - Initial version
 
 
-May 4th 2021 - 1.0.1 - Fixed applications that won't fully load
-
+May 4th 2021 - 1.0.1 - Fixed applications that only load halfway
 
 
 
