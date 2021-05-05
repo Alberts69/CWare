@@ -16,7 +16,7 @@ May 4th 2021 - 1.0 - Initial version
 May 4th 2021 - 1.0.1 - Fixed applications that only load halfway
 
 
-
+Current things that are being worked on: M1 Mac Support, Support for more applications, Access to microphone, download folder, etc request. (Some applications need those to function. I am currently working on it for that.)
 
 
 
