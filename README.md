@@ -21,7 +21,7 @@ May 4th 2021 - 1.0 - Initial version
 May 4th 2021 - 1.0.1 - Fixed applications that only load halfway
 
 
-May 5h 2021 - 1.0.2 - Made some applications a whole lot smoother and less laggy
+May 5th 2021 - 1.0.2 - Made some applications a whole lot smoother and less laggy
 
 
 
